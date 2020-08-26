@@ -1,0 +1,26 @@
+{
+  "name": "bowling",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "lint": "eslint . --ext .js,.jsx,.ts,.tsx"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/cli": "^7.10.5",
+    "@babel/core": "^7.11.4",
+    "@babel/preset-env": "^7.11.0",
+    "@babel/preset-typescript": "^7.10.4",
+    "@jest/globals": "^26.4.2",
+    "@typescript-eslint/eslint-plugin": "^3.10.1",
+    "@typescript-eslint/parser": "^3.10.1",
+    "babel-plugin-transform-class-properties": "^6.24.1",
+    "eslint": "^7.7.0",
+    "jest": "^26.4.2",
+    "typescript": "^4.0.2"
+  },
+  "dependencies": {}
+}
